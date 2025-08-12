@@ -60,7 +60,7 @@ const Navbar = () => {
             className="flex items-center"
           >
             <Link to="/" className="flex items-center">
-              <img src="/logo.png" alt="BizGenie Logo" className="h-12 w-auto mr-3" />
+              <img src="/logo.png" alt="BizGenie Logo" className="h-14 w-auto mr-3" />
             </Link>
           </motion.div>
 
